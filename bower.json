@@ -41,10 +41,10 @@
     "url": "https://github.com/Leaflet/Leaflet.draw.git"
   },
   "dependencies": {
-    "leaflet-dist": "0.7.x"
+    "leaflet": "~1.0.x"
   },
   "devDependencies": {
-    "leaflet": "~0.7.0",
+    "leaflet": "~1.0.x",
     "jshint": "~2.3.0",
     "uglify-js": "~2.4.3",
     "jake": "~0.7.4",
